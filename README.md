@@ -1,4 +1,4 @@
-#ReCoded
+#Rumman
 
 <p align="left"> 
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -10,11 +10,11 @@
 <h1 align="center">BRAJE 1.0</h1>
 <p align="center">      AUTO LIKER, AUTO COMMENT AND AUTO FOLLOWER APP CREDIT HACKER TOOL</p>
 
-## ***About Braje***:
+## ***About SR***:
 
 Braje is a python based credit hacker tool. Hack unlimited RAJE LIKER app Credit. Raje Liker is a Best Unlimited auto comment, auto reaction and auto followers application. This tool works on any Android devices without root.
 
-## Installation :
+## Installation SR :
 ```
 $ pkg update && pkg upgrade
 $ pkg install python
